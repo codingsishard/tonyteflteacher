@@ -1,0 +1,120 @@
+
+/***************************************
+****************BODY BOX***************/
+
+
+body {
+  
+      background-color: #B4A3D6;
+  
+      }
+
+
+/**************************************
+**************HEADER BOX***************/
+
+
+
+.Header{
+  
+       
+       color : #EFE400;
+       font-size: 30px;
+       position : relative;
+       top : 20px;
+       right: 5px;
+  left:100px;
+  
+  
+  
+  
+       }
+
+
+/************************************/
+
+
+
+div.MyPicture {
+  position: absolute;
+  width:80px;
+  height :80px;
+  top:10px;
+  left: 1px;
+  border: 3px solid #73AD21
+
+}
+
+
+/***************************************
+***************DIV BOX*****************/
+
+
+
+
+
+
+.div-1 {
+          background-color: #9ABDD0; 
+           height: 230px;
+           width: 500px;
+  
+           position : relative;
+           top:00px;
+           right : 5px;
+  
+           font - size:20px;
+           color :#9A1247;
+           
+  
+  
+        }
+
+/**************************************/
+   
+.div-2 {
+  
+  
+         background-color: #9ABDff; 
+         height: 170px;
+         width: 500px;
+  
+         position : relative;
+         top : 20px;
+         right: 5px;
+  
+          
+         font - size:20px;
+         color :#9A1247;
+  
+        }
+
+/**************************************/
+   
+.div-3 {
+  
+  
+        background-color: #9Addff;
+        height: 150px;
+        width: 500px;
+  
+        position : relative;
+        top : 40px;
+        right: 5px;
+  
+         font - size:20px;
+         color : #ff000099;
+  
+}
+  
+  
+  
+  
+  
+  
+  
+        
+
+/***************************************/
+
+
